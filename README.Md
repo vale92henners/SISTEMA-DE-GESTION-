@@ -1,4 +1,4 @@
-# Sistema de Gestión de Productos - Proyecto ABP (Módulo 3)
+# Sistema de Gestión de Productos - Proyecto ABP
 
 ## Descripción del Proyecto
 Este sistema es una solución robusta desarrollada en **Python** para la gestión automatizada de inventarios. Integra identificación de usuarios por roles, validación de datos, gestión de productos y cálculos financieros mediante algoritmos recursivos.
